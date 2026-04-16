@@ -26,16 +26,16 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 
 | #   | Topic                     | File                                                           | Status |
 | --- | ------------------------- | -------------------------------------------------------------- | ------ |
-| 02  | Arrays                    | [02-Arrays.md](./Data%20Structures/02-Arrays.md)               | ✅     |
-| 03  | Strings                   | [03-Strings.md](./Data%20Structures/03-Strings.md)             | ✅     |
-| 04  | Linked Lists              | [04-LinkedLists.md](./Data%20Structures/04-LinkedLists.md)     | ✅     |
-| 05  | Stacks & Queues           | [05-Stacks-Queues.md](./Data%20Structures/05-Stacks-Queues.md) | ✅     |
-| 06  | Hash Tables / Maps        | [06-HashTables.md](./Data%20Structures/06-HashTables.md)       | ✅     |
-| 07  | Trees (Binary, BST, AVL)  | [07-Trees.md](./Data%20Structures/07-Trees.md)                 | ✅     |
-| 08  | Heaps & Priority Queue    | [08-Heaps.md](./Data%20Structures/08-Heaps.md)                 | ✅     |
-| 09  | Graphs                    | [09-Graphs.md](./Data%20Structures/09-Graphs.md)               | ✅     |
-| 16  | Tries                     | [16-Tries.md](./Data%20Structures/16-Tries.md)                 | ✅     |
-| 17  | Disjoint Set / Union Find | [17-UnionFind.md](./Data%20Structures/17-UnionFind.md)         | ✅     |
+| 02  | Arrays                    | [02-Arrays.md](./Data-Structures/02-Arrays.md)                 | ✅     |
+| 03  | Strings                   | [03-Strings.md](./Data-Structures/03-Strings.md)               | ✅     |
+| 04  | Linked Lists              | [04-LinkedLists.md](./Data-Structures/04-LinkedLists.md)       | ✅     |
+| 05  | Stacks & Queues           | [05-Stacks-Queues.md](./Data-Structures/05-Stacks-Queues.md)   | ✅     |
+| 06  | Hash Tables / Maps        | [06-HashTables.md](./Data-Structures/06-HashTables.md)         | ✅     |
+| 07  | Trees (Binary, BST, AVL)  | [07-Trees.md](./Data-Structures/07-Trees.md)                   | ✅     |
+| 08  | Heaps & Priority Queue    | [08-Heaps.md](./Data-Structures/08-Heaps.md)                   | ✅     |
+| 09  | Graphs                    | [09-Graphs.md](./Data-Structures/09-Graphs.md)                 | ✅     |
+| 16  | Tries                     | [16-Tries.md](./Data-Structures/16-Tries.md)                   | ✅     |
+| 17  | Disjoint Set / Union Find | [17-UnionFind.md](./Data-Structures/17-UnionFind.md)           | ✅     |
 
 ### 3. Algorithms
 
@@ -52,7 +52,7 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 
 | #   | Topic                 | File                                                                               | Status |
 | --- | --------------------- | ---------------------------------------------------------------------------------- | ------ |
-| 18  | Interview Cheat Sheet | [18-Interview-CheatSheet.md](./Interview%20Cheatsheets/18-Interview-CheatSheet.md) | ✅     |
+| 18  | Interview Cheat Sheet | [18-Interview-CheatSheet.md](./Interview-Cheatsheets/18-Interview-CheatSheet.md)   | ✅     |
 
 ### 5. Definitions & Glossary
 
@@ -68,11 +68,11 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 ```
 DSA-Notes-JS/
 ├── README.md                      ← You are here (Index)
-├── Definitions/                   ← Quick reference for all DSA concepts
+├── Definitions/                   ← Quick reference for all DSA concepts definitions
 ├── Prerequisites/                 ← Start here! (JS limitations & Big-O)
-├── Data Structures/               ← The building blocks
+├── Data-Structures/               ← The building blocks
 ├── Algorithms/                    ← Operations on building blocks
-└── Interview Cheatsheets/         ← Quick review before an interview
+└── Interview-Cheatsheets/         ← Quick review before an interview
 ```
 
 ### 📅 Suggested Study Plan
