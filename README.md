@@ -1,7 +1,7 @@
 # 📚 Complete DSA Notes — JavaScript Edition
 
 > **Your complete, interview-ready Data Structures & Algorithms reference in JavaScript.**
-> Covers definitions · visualizations · real-world usage · interview Q&A · practice problems.
+- Covers definitions · visualizations · real-world usage · interview Q&A · practice problems.
 
 ---
 
@@ -54,6 +54,13 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 | --- | --------------------- | ---------------------------------------------------------------------------------- | ------ |
 | 18  | Interview Cheat Sheet | [18-Interview-CheatSheet.md](./Interview%20Cheatsheets/18-Interview-CheatSheet.md) | ✅     |
 
+### 5. Definitions & Glossary
+
+| #   | Topic                     | File                                                                                       | Status |
+| --- | ------------------------- | ------------------------------------------------------------------------------------------ | ------ |
+| 19  | Data Structures Glossary  | [01-Data-Structures-Definitions.md](./Definitions/01-Data-Structures-Definitions.md)       | ✅     |
+| 20  | Algorithms Glossary       | [02-Algorithms-Definitions.md](./Definitions/02-Algorithms-Definitions.md)                 | ✅     |
+
 ---
 
 ## 🎯 How to Use These Notes
@@ -61,6 +68,7 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 ```
 DSA-Notes-JS/
 ├── README.md                      ← You are here (Index)
+├── Definitions/                   ← Quick reference for all DSA concepts
 ├── Prerequisites/                 ← Start here! (JS limitations & Big-O)
 ├── Data Structures/               ← The building blocks
 ├── Algorithms/                    ← Operations on building blocks
