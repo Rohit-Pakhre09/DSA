@@ -61,6 +61,21 @@ Unlike traditional dense textbooks, these notes are designed to be highly practi
 | 19  | Data Structures Glossary  | [01-Data-Structures-Definitions.md](./Definitions/01-Data-Structures-Definitions.md)       | ✅     |
 | 20  | Algorithms Glossary       | [02-Algorithms-Definitions.md](./Definitions/02-Algorithms-Definitions.md)                 | ✅     |
 
+### 6. Practice Questions
+
+| #   | Topic                     | Folder                                                             | Status |
+| --- | ------------------------- | ------------------------------------------------------------------ | ------ |
+| 21  | Array                     | [Array](./DSA-Questions/Array)                                     | ✅     |
+| 22  | Binary Tree               | [Binary-Tree](./DSA-Questions/Binary-Tree)                         | ✅     |
+| 23  | Deque                     | [Deque](./DSA-Questions/Deque)                                     | ✅     |
+| 24  | Circular Linked List      | [Linked-List-Circular](./DSA-Questions/Linked-List-Circular)       | ✅     |
+| 25  | Doubly Linked List        | [Linked-List-Doubly](./DSA-Questions/Linked-List-Doubly)           | ✅     |
+| 26  | Singly Linked List        | [Linked-List-Singly](./DSA-Questions/Linked-List-Singly)           | ✅     |
+| 27  | Queue                     | [Queue](./DSA-Questions/Queue)                                     | ✅     |
+| 28  | Searching Algorithms      | [Searching-Algorithms](./DSA-Questions/Searching-Algorithms)       | ✅     |
+| 29  | Sorting Algorithms        | [Sorting-Algorithms](./DSA-Questions/Sorting-Algorithms)           | ✅     |
+| 30  | Stack                     | [Stack](./DSA-Questions/Stack)                                     | ✅     |
+
 ---
 
 ## 🎯 How to Use These Notes
@@ -72,6 +87,7 @@ DSA-Notes-JS/
 ├── Prerequisites/                 ← Start here! (JS limitations & Big-O)
 ├── Data-Structures/               ← The building blocks
 ├── Algorithms/                    ← Operations on building blocks
+├── DSA-Questions/                 ← Practice problems grouped by topic
 └── Interview-Cheatsheets/         ← Quick review before an interview
 ```
 
